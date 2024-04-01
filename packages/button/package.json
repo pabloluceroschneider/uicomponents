@@ -11,5 +11,12 @@
     "button"
   ],
   "author": "pabloluceroschneider@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.73"
+  }
 }
