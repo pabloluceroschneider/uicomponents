@@ -1,0 +1,14 @@
+{
+  "name": "@uico/button",
+  "version": "1.0.0",
+  "description": "Button of the @uico catalog",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "button"
+  ],
+  "author": "pabloluceroschneider@gmail.com",
+  "license": "ISC"
+}
