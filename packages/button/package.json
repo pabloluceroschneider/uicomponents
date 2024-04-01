@@ -1,0 +1,22 @@
+{
+  "name": "@uico/button",
+  "version": "1.0.0",
+  "description": "Button of the @uico catalog",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "test"
+  },
+  "keywords": [
+    "button"
+  ],
+  "author": "pabloluceroschneider@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.73"
+  }
+}
