@@ -1,5 +1,5 @@
 import React, { FC } from 'react';
-import { ButtonProps } from './types';
+import { ButtonProps } from './index.d';
 
 export const Button: FC<ButtonProps> = ({
   className,
